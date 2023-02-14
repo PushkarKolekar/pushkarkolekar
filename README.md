@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkar-kolekar&label=Profile%20views&color=0e75b6&style=flat" alt="pushkar-kolekar" /> </p>
+<br>
 
 <p align="left"> <a href="https://twitter.com/pushkarkolekar" target="blank"><img src="https://img.shields.io/twitter/follow/pushkarkolekar?logo=twitter&style=for-the-badge" alt="pushkarkolekar" /></a> </p>
 
